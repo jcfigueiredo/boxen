@@ -79,6 +79,8 @@ node default {
   include chrome
   include wget
   include phantomjs
+  include virtualbox
+  include vagrant
   include mongodb
 
   # create mongo data directory      
