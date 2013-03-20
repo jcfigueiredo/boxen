@@ -81,6 +81,8 @@ node default {
   include phantomjs
   include virtualbox
   include vagrant
+  include iterm2::stable
+
   include mongodb
 
   # create mongo data directory      
