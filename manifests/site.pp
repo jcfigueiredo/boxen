@@ -73,6 +73,9 @@ node default {
   include ruby::2_0_0
  
   # custom
+  include hipchat
+  include skype
+  include firefox
   include mongodb
 
   # create mongo data directory      
