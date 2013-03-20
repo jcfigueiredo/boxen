@@ -36,5 +36,5 @@ github "sudo",     "1.0.0"
 
 github "mongodb",  "1.0.0"
 github "hipchat",  "1.0.2"
-github "skype,     "1.0.2"
+github "skype",    "1.0.2"
 github "firefox",  "1.0.3"
