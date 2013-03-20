@@ -71,6 +71,18 @@ node default {
   include ruby::1_9_2
   include ruby::1_9_3
   include ruby::2_0_0
+ 
+  # custom
+  include mongodb
+
+  # create mongo data directory      
+  file { "/data/":
+      ensure => "directory",
+  }
+
+  file { "/data/db/":
+      ensure => "directory",
+  }
 
   # common, useful packages
   package {
