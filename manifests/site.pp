@@ -83,6 +83,7 @@ node default {
   include vagrant
   include iterm2::stable
   include pycharm
+  include java
 
   include mongodb
 
