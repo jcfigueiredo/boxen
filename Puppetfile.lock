@@ -4,6 +4,11 @@ GITHUBTARBALL
     boxen (1.2.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (1.0.0)
@@ -59,6 +64,11 @@ GITHUBTARBALL
     nvm (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-phantomjs
+  specs:
+    phantomjs (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-ruby
   specs:
     ruby (3.1.0)
@@ -74,6 +84,11 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-wget
+  specs:
+    wget (1.0.0)
+
+GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
   specs:
     inifile (0.9.0)
@@ -85,6 +100,7 @@ GITHUBTARBALL
 
 DEPENDENCIES
   boxen (= 1.2.0)
+  chrome (= 1.0.0)
   dnsmasq (= 1.0.0)
   firefox (= 1.0.3)
   gcc (= 1.0.0)
@@ -97,8 +113,10 @@ DEPENDENCIES
   nginx (= 1.1.0)
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
+  phantomjs (= 1.0.0)
   ruby (= 3.1.0)
   skype (= 1.0.2)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
+  wget (= 1.0.0)
 

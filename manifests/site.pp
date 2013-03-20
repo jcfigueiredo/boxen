@@ -76,6 +76,9 @@ node default {
   include hipchat
   include skype
   include firefox
+  include chrome
+  include wget
+  include phantomjs
   include mongodb
 
   # create mongo data directory      
