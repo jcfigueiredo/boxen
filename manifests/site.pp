@@ -82,6 +82,7 @@ node default {
   include virtualbox
   include vagrant
   include iterm2::stable
+  include pycharm
 
   include mongodb
 
