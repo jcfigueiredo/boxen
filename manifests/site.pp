@@ -87,7 +87,8 @@ node default {
   include alfred
   include dropbox
   include 1password
-
+  include pycharm
+  
   include mongodb
 
   # create mongo data directory      
