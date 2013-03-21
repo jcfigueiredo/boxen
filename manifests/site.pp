@@ -85,6 +85,7 @@ node default {
   include java
   include textmate::textmate2::release
   include alfred
+  include dropbox
 
   include mongodb
 
