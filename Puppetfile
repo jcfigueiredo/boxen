@@ -50,3 +50,10 @@ github "alfred",    "1.0.1"
 github "dropbox",   "1.1.0"
 github "1password", "1.0.0", :repo => "payperks/puppet-1password"
 github "pycharm",   "1.0.1", :repo => "payperks/puppet-pycharm"
+
+# fun stuff [modules here won't be installed globally, these are per user. ]
+# check https://github.com/boxen/our-boxen/blob/master/modules/people/README.md
+
+github "adium",   "1.0.1"
+github "rdio",    "1.0.0"
+
