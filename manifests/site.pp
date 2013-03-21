@@ -86,6 +86,7 @@ node default {
   include textmate::textmate2::release
   include alfred
   include dropbox
+  include 1password
 
   include mongodb
 
