@@ -129,14 +129,14 @@ GITHUBTARBALL
     inifile (0.9.0)
 
 GITHUBTARBALL
-  remote: jcfigueiredo/boxen-1password
-  specs:
-    1password (1.0.0)
-
-GITHUBTARBALL
   remote: jcfigueiredo/puppet-pycharm
   specs:
     pycharm (1.0.0)
+
+GITHUBTARBALL
+  remote: payperks/puppet-1password
+  specs:
+    1password (1.0.0)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-stdlib
