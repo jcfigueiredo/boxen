@@ -129,14 +129,14 @@ GITHUBTARBALL
     inifile (0.9.0)
 
 GITHUBTARBALL
-  remote: jcfigueiredo/puppet-pycharm
-  specs:
-    pycharm (1.0.0)
-
-GITHUBTARBALL
   remote: payperks/puppet-1password
   specs:
     1password (1.0.0)
+
+GITHUBTARBALL
+  remote: payperks/puppet-pycharm
+  specs:
+    pycharm (1.0.1)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-stdlib
@@ -164,7 +164,7 @@ DEPENDENCIES
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
   phantomjs (= 1.0.0)
-  pycharm (= 1.0.0)
+  pycharm (= 1.0.1)
   ruby (= 3.1.0)
   skype (= 1.0.2)
   stdlib (= 3.0.0)
