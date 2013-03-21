@@ -84,6 +84,7 @@ node default {
   include iterm2::stable
   include java
   include textmate::textmate2::release
+  include alfred
 
   include mongodb
 
