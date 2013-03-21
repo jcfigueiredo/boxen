@@ -94,6 +94,11 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-textmate
+  specs:
+    textmate (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-vagrant
   specs:
     vagrant (1.0.1)
@@ -140,6 +145,7 @@ DEPENDENCIES
   skype (= 1.0.2)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
+  textmate (= 1.1.0)
   vagrant (= 1.0.1)
   virtualbox (= 1.0.1)
   wget (= 1.0.0)

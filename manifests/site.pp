@@ -83,6 +83,7 @@ node default {
   include vagrant
   include iterm2::stable
   include java
+  include textmate::textmate2::release
 
   include mongodb
 
